@@ -1,0 +1,11 @@
+# Ignore system files
+AppData/
+Documents/
+Downloads/
+.cache/
+.vscode/
+
+# Ignore IDE/editor specific files
+*.log
+*.bak
+*.swp
